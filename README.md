@@ -1,2 +1,2 @@
 # FinalProjectPython
-Analysis 1 Class
+Applied Economic Analysis 1 Class Fall 2016
